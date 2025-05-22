@@ -11,7 +11,7 @@ It’s been exciting to see how easily we can connect tools like OpenAI and publ
 
 I collected the weather API from : https://open-meteo.com/
 
-🔧 Tech stack: OpenAI API, n8n workflows, weather API, email integrations
+🔧 Tech stack: OpenAI API, n8n workflows, weather API, email integrations, automation
 
 Here’s a peek at the workflow ⬇️
 #AI #Automation #n8n #OpenAI #NoCode #WeatherAPI #ProductivityTools #PersonalProjects
