@@ -19,4 +19,9 @@ Here’s a peek at the workflow ⬇️
 
 ![ai](https://github.com/user-attachments/assets/0a3382a0-1886-455d-b82b-8a26616d3ab3)
 
+A video demo of the workflow: 
+
+
+
+https://github.com/user-attachments/assets/c2214387-c7a9-4e04-aa01-21fffe0ce8cf
 
