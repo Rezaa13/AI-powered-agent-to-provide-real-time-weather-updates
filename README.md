@@ -13,10 +13,6 @@ I collected the weather API from : https://open-meteo.com/
 
 🔧 Tech stack: OpenAI API, n8n workflows, weather API, email integrations, automation
 
-Here’s a peek at the workflow ⬇️
-#AI #Automation #n8n #OpenAI #NoCode #WeatherAPI #ProductivityTools #PersonalProjects
-
-
 ![ai](https://github.com/user-attachments/assets/0a3382a0-1886-455d-b82b-8a26616d3ab3)
 
 A video demo of the workflow: 
